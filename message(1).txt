@@ -1,0 +1,6 @@
+All of your files are currently encrypted by CONTI ransomware. 
+If you try to use any additional recovery software - the files might be damaged or lost.
+
+If you would like to try to decrypt them yourself, here's a little hint ;)
+
+1=0&0=1

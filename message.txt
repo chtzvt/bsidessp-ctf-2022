@@ -1,0 +1,16 @@
+(The Thief. By Edgar Allan Poe. 1832)
+
+Listen to your heart	## heart = stdin
+
+The Thief takes my will function thief(will)
+The time is sad		## time = "sad"	
+My age is nothing	## age = 0
+Put silence into my regards	## regards = ""
+While my age ain't 33 	## while age != 33
+Put my age with the time into my age 	## age = time + age
+Put my regards with my will at my age into my regards ## regards = regards + will[age]
+
+Send my regards return regards
+
+If your heart is The Thief taking "hsuo5hbpofenuu7s3bcoiacctnaithowen"
+Shout The Thief taking "ijhbopscdplkrde0g5caak6jsjgtr44fgr"
